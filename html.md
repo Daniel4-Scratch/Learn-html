@@ -11,6 +11,8 @@ We're going to use Atom. Atom is a free open source text/file editor for macOS, 
 
 Go to [atom.io](https://atom.io/) and hit the download button or download it from [github releases](https://github.com/atom/atom/releases/tag/v1.57.0).
 
+[![Install Atom](https://img.shields.io/static/v1?label=Atom&message=Install&color=orange&style=for-the-badge&logo=atom)](https://github.com/atom/atom/releases/tag/v1.57.0)
+
 Unzip the file that downloaded and set up atom. Now Launch it
 
 <img align="center" width="400" alt="Unziping atom" src="https://user-images.githubusercontent.com/65277548/125181957-25d4e300-e24d-11eb-95c3-94947a401bf7.png">
