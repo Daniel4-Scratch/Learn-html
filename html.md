@@ -44,7 +44,9 @@ Open your web browser and paste the link into the url bar. But nothing appears! 
 
 ## Adding Content
 In-between the body tags add `<p> </p>`. P is short paragraph, so your adding a paragraph into your webpage. Type something in-between the p tags. Then hit command ⌘ + S to save the file. The get the file directory path and paste it into your broswer tada!. What it should look like.
-<img width="400" alt="Website" src="https://user-images.githubusercontent.com/65277548/125184507-c59c6c00-e261-11eb-9bc9-680e17e1efc4.png">
+
+<img width="490" alt="Website" src="https://user-images.githubusercontent.com/65277548/125184507-c59c6c00-e261-11eb-9bc9-680e17e1efc4.png">
+
 And your code should look like
 ```html
 <!DOCTYPE html>
