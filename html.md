@@ -67,5 +67,10 @@ And your code should look like
 
 ```
 
+# End
+You have reached the end of the tutorial! Claim your certificate:
+
+[![Claim Certificate](https://img.shields.io/static/v1?label=&message=Claim%20Certificate&color=lightgreen?style=plastic&logo=glitch)](https://daniel-info.glitch.me/learn-html/award.html)
+
 
 
