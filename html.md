@@ -20,4 +20,7 @@ Unzip the file that downloaded and set up atom. Now Launch it
 <img align="center" width="500" alt="Atom start menu" src="https://user-images.githubusercontent.com/65277548/125182038-d80caa80-e24d-11eb-96f1-e559cbb9943e.png">
 
 ### Making our HTML Files
-HTML is the language that all webpages use to display text and images. And anyone can use it to tell things about themselves.
+HTML is the language that all webpages use to display text and images. And anyone can use it to tell things about themselves. First download my [starter kit](https://github.com/Daniel4-Scratch/Learn-html/releases). Unzip the file. Hop into Atom then click "Open Project" then select the "Starter Kit Folder"
+
+<img width="470" alt="Atom Open Project" src="https://user-images.githubusercontent.com/65277548/125182917-7cdeb600-e255-11eb-8fbd-6c299ffbfd92.png"><img width="470" alt="File Select Starter Kit" src="https://user-images.githubusercontent.com/65277548/125183056-92081480-e256-11eb-9f17-f32b202934de.png">
+
