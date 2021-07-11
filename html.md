@@ -32,6 +32,7 @@ Your computer screen should look like this:
 
 Make sure on the left hand side is a bar and it has your folder for your website. Click on the folder the click on "index.html".
 
-This code is the code for your webpage. There is a `<!DOCTYPE html>` at the top of the text, this tells the computer that this file is a html website. Under the doctype is `<html>` with a bunch of code in it and ends in `</html>`. `<html></html>` is the code for the website and it holds `<head></head>` and `<body></body>`. 
+#### About the tags
+This code is the code for your webpage. There is a `<!DOCTYPE html>` at the top of the text, this tells the computer that this file is a html website. Under the doctype is `<html>` with a bunch of code in it and ends in `</html>`. `<html></html>` is the code for the website and it holds code in-between the tags; `<head></head>` and `<body></body>`. The head tag is a container for metadata, like; The webpage titles, favicons and information to tell search engines what the website is about. The body tag is container for the content to display on the website. Like your text, images and links.
 
 
