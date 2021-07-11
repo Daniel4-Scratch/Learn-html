@@ -35,4 +35,11 @@ Make sure on the left hand side is a bar and it has your folder for your website
 ### About the tags
 This code is the code for your webpage. There is a `<!DOCTYPE html>` at the top of the text, this tells the computer that this file is a html website. Under the doctype is `<html>` with a bunch of code in it and ends in `</html>`. `<html></html>` is the code for the website and it holds code in-between the tags; `<head></head>` and `<body></body>`. The head tag is a container for metadata, like; The webpage titles, favicons and information to tell search engines what the website is about. The body tag is container for the content to display on the website. Like your text, images and links.
 
+### Previewing out web page
+You should be on the file index.html for this. In the bottom left corner is the name of the file that we are currently editing. If you click that file name it should copy the file directory/path to your clipboard. You will need to paste this into a web browser.
+
+<img width="400" alt="Atom File Path" src="https://user-images.githubusercontent.com/65277548/125184130-a3551f00-e25e-11eb-9122-4bab0d737a9a.png">.
+
+Open your web browser and paste the link into the url bar. But nothing appears! That's because we haven't written any text. Keep this file directory link for later so you can test your webpage.
+
 
